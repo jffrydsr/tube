@@ -1,0 +1,25 @@
+{
+  "name": "tube",
+  "version": "1.0.1",
+  "description": "`tube` is a Youtube-like (_without censorship and features you don't need!_) Video Sharing App written in Go which also supports automatic transcoding to MP4 H.265 AAC, multiple collections and RSS feed.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jffrydsr/tube.git"
+  },
+  "author": "James Mills, Jeffrey Desir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jffrydsr/tube/issues"
+  },
+  "homepage": "https://github.com/jffrydsr/tube#readme",
+  "dependencies": {
+    "@appnest/readme": "^1.2.7"
+  }
+}

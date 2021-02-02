@@ -3,6 +3,7 @@
 *.bak
 *.key
 
+node_modules
 /dist
 /tube
 /.DS_Store
